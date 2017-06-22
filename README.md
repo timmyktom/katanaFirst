@@ -1,6 +1,16 @@
 # katanaFirst
 Sample App Created in Console Application for starting with Microsoft Katana
 
+## Either Clone repository and open the KatanaIntro.sln in Visual Studio 2015
+## OR
+## Create a new project, install Nuget packages , paste the content in Program.cs file to your main file
+
+## Creating a New Project
+1. Open Microsoft Visual Studio 2015
+2. File -> New -> Project -> Visual C# -> Console Application
+3. Enter Name: KatanaIntro
+
+
 ## Nuget Packages
 1. Open Package Manager Console
 2. Package source as `nuget.org`
